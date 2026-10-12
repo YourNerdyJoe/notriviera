@@ -1,0 +1,15 @@
+ITEM_NAME_APPLE
+Apple
+
+ITEM_NAME_SWORD
+Sword
+
+ITEM_NAME_SCROLL
+Scroll
+
+DIALOG_HELLO
+Hello
+World
+GoodBye
+\
+That's it
